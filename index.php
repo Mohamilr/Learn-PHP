@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="./storeFormData/signup.php"></a>
+    <a href="./storeFormData/signup.php">sign up</a>
 </body>
 </html>
